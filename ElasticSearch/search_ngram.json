@@ -1,9 +1,20 @@
 {
     "query": {
         "match": {
-            "charmmeta.name.ngrams": {
-                "query": "media",
-                "analyzer": "standard"
+            "CharmMeta.Name.ngrams": {
+                "query": "wik",
+                "analyzer": "n3_20grams"
+            }
+        }
+    }
+}
+
+{
+    "query": {
+        "match": {
+            "CharmMeta.Name.ngrams": {
+                "query": "med",
+                "analyzer": "n3_20grams"
             }
         }
     }

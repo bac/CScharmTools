@@ -5,8 +5,8 @@
   "size": 1166558,
   "blobname": "/charms/precise_mediawiki_541172a0035a040277000036",
   "uploadtime": 1410429600560,
-  "charmmeta": {
-    "name": "mediawiki",
+  "CharmMeta": {
+    "Name": "mediawiki",
     "summary": "Website engine for collaborative work",
     "description": "MediaWiki is a wiki engine (a program for creating a collaboratively\nedited website). It is designed to handle heavy websites containing\nlibrary-like document collections, and supports user uploads of\nimages/sounds, multilingual content, TOC autogeneration, ISBN links,\netc.\n",
     "subordinate": false,
