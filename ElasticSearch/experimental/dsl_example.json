@@ -10,7 +10,7 @@
 	           "entity.CharmProvidedInterface",
 	           "entity.CharmRequiredInterfaces"
 	       ],
-	       "query": "mysql"
+	       "query": "edia"
 	   }
 	}
 }
